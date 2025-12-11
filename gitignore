@@ -1,0 +1,123 @@
+# ==========================================
+# .gitignore per Progetto C# - Casinò dei Dadi
+# ==========================================
+
+# === VISUAL STUDIO / C# ===
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww]in32/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Build Results
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.log
+*.vspscc
+*.vssscc
+*.pidb
+*.svclog
+*.scc
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# === DOCUMENTAZIONE GENERATA ===
+# Doxygen output
+docs/html/
+docs/latex/
+docs/xml/
+Doxyfile.bak
+
+# Sandcastle Help File Builder
+Help/
+
+# === SISTEMA OPERATIVO ===
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+
+# === IDE ===
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# === FILE TEMPORANEI ===
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# === CONFIGURAZIONE PERSONALE ===
+appsettings.Development.json
+*.local.json
+secrets.json
+
+# === ALTRO ===
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# Backup files
+*.orig
+*.backup
+```
