@@ -60,6 +60,7 @@ Il progetto include due modalità principali:
 Il progetto è stato realizzato come esercitazione di laboratorio per simulare il lavoro in team, con attenzione a:
 - Buone pratiche di versionamento.  
 - Documentazione chiara e aggiornata.  
-- Testing e validazione delle funzionalità.  
+- Testing e validazione delle funzionalità.
+- Documentazione con pipeline su: https://alessandropiazzalunga.github.io/piazzalungamiolaGPO/
 
 ---
