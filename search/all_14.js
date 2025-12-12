@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['sdk_20cli_0',['3) .NET SDK / CLI',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html#autotoc_md26',1,'']]],
+  ['seconda_20feature_20effetti_20di_20suspense_1',['📖 Descrizione: seconda feature (effetti di suspense)',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Delay.html#autotoc_md1',1,'']]],
+  ['sezioni_20del_20codice_2',['Nuove sezioni del codice',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html#autotoc_md27',1,'']]],
+  ['sistema_20casinò_20sul_20lancio_20dei_20dadi_3',['🎲 Sistema Casinò sul Lancio dei Dadi',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html',1,'']]],
+  ['sistema_20casinò_20sul_20lancio_20dei_20dadi_20—_20documentazione_20tecnica_20md_4',['🎲 Sistema Casinò sul Lancio dei Dadi — Documentazione Tecnica (.md)',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html#autotoc_md21',1,'']]],
+  ['sistema_20casinò_20sul_20lancio_20dei_20dadi_20—_20feature_20suspense_5',['🎲 Sistema Casinò sul Lancio dei Dadi — Feature Suspense',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Delay.html',1,'']]],
+  ['specifiche_20sul_20codice_6',['📝 Specifiche sul codice',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html#autotoc_md34',1,'']]],
+  ['strumenti_20e_20ambienti_20consigliati_7',['🧰 Strumenti e Ambienti Consigliati',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html#autotoc_md23',1,'']]],
+  ['strumenti_20e_20pratiche_20adottate_8',['🛠 Strumenti e pratiche adottate',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2riepilogo.html#autotoc_md61',1,'']]],
+  ['studio_20code_20windows_20macos_20linux_9',['studio code windows macos linux',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Delay.html#autotoc_md12',1,'✅ Visual Studio Code (Windows/macOS/Linux)'],['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html#autotoc_md25',1,'2) Visual Studio Code (Windows/macOS/Linux)']]],
+  ['studio_20windows_10',['studio windows',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Delay.html#autotoc_md11',1,'✅ Visual Studio (Windows)'],['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html#autotoc_md24',1,'1) Visual Studio (Windows)']]],
+  ['suddivisione_20dei_20compiti_11',['📂 Suddivisione dei compiti',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2riepilogo.html#autotoc_md60',1,'']]],
+  ['sul_20codice_12',['📝 Specifiche sul codice',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html#autotoc_md34',1,'']]],
+  ['sul_20lancio_20dei_20dadi_13',['🎲 Sistema Casinò sul Lancio dei Dadi',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html',1,'']]],
+  ['sul_20lancio_20dei_20dadi_20—_20documentazione_20tecnica_20md_14',['🎲 Sistema Casinò sul Lancio dei Dadi — Documentazione Tecnica (.md)',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html#autotoc_md21',1,'']]],
+  ['sul_20lancio_20dei_20dadi_20—_20feature_20suspense_15',['🎲 Sistema Casinò sul Lancio dei Dadi — Feature Suspense',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Delay.html',1,'']]],
+  ['suspense_16',['suspense',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Delay.html',1,'🎲 Sistema Casinò sul Lancio dei Dadi — Feature Suspense'],['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Delay.html#autotoc_md1',1,'📖 Descrizione: seconda feature (effetti di suspense)']]],
+  ['sviluppo_20consigliato_17',['🧰 Ambiente di sviluppo consigliato',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Delay.html#autotoc_md10',1,'']]]
+];

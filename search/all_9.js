@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['dadi_0',['🎲 Sistema Casinò sul Lancio dei Dadi',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html',1,'']]],
+  ['dadi_20—_20documentazione_20tecnica_20md_1',['🎲 Sistema Casinò sul Lancio dei Dadi — Documentazione Tecnica (.md)',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html#autotoc_md21',1,'']]],
+  ['dadi_20—_20feature_20suspense_2',['🎲 Sistema Casinò sul Lancio dei Dadi — Feature Suspense',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Delay.html',1,'']]],
+  ['dado_20interattivo_3',['🎲 Gioco del dado interattivo',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2README.html',1,'']]],
+  ['dei_20compiti_4',['📂 Suddivisione dei compiti',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2riepilogo.html#autotoc_md60',1,'']]],
+  ['dei_20dadi_5',['🎲 Sistema Casinò sul Lancio dei Dadi',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html',1,'']]],
+  ['dei_20dadi_20—_20documentazione_20tecnica_20md_6',['🎲 Sistema Casinò sul Lancio dei Dadi — Documentazione Tecnica (.md)',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html#autotoc_md21',1,'']]],
+  ['dei_20dadi_20—_20feature_20suspense_7',['🎲 Sistema Casinò sul Lancio dei Dadi — Feature Suspense',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Delay.html',1,'']]],
+  ['del_20codice_8',['Nuove sezioni del codice',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html#autotoc_md27',1,'']]],
+  ['del_20dado_20interattivo_9',['🎲 Gioco del dado interattivo',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2README.html',1,'']]],
+  ['del_20gruppo_10',['👥 Componenti del gruppo',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2riepilogo.html#autotoc_md54',1,'']]],
+  ['del_20lavoro_11',['👥 Organizzazione del Lavoro',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2README.html#autotoc_md49',1,'']]],
+  ['del_20lavoro_20—_20verifica_20di_20laboratorio_20gpo_12',['📋 Riepilogo Organizzazione del Lavoro — Verifica di Laboratorio GPO',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2riepilogo.html',1,'']]],
+  ['del_20progetto_13',['del progetto',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2riepilogo.html#autotoc_md56',1,'✅ Obiettivo del progetto'],['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2README.html#autotoc_md41',1,'🛠️ Funzionalità del Progetto']]],
+  ['della_20feature_14',['✔️ Vantaggi della feature',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Delay.html#autotoc_md8',1,'']]],
+  ['descrizione_15',['📖 Descrizione',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2README.html#autotoc_md37',1,'']]],
+  ['descrizione_3a_20seconda_20feature_20effetti_20di_20suspense_16',['📖 Descrizione: seconda feature (effetti di suspense)',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Delay.html#autotoc_md1',1,'']]],
+  ['di_20gioco_17',['Modalità di Gioco',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2README.html#autotoc_md42',1,'']]],
+  ['di_20gioco_20immutate_18',['Modalità di gioco (immutate)',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html#autotoc_md17',1,'']]],
+  ['di_20laboratorio_20gpo_19',['📋 Riepilogo Organizzazione del Lavoro — Verifica di Laboratorio GPO',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2riepilogo.html',1,'']]],
+  ['di_20suspense_20',['📖 Descrizione: seconda feature (effetti di suspense)',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Delay.html#autotoc_md1',1,'']]],
+  ['di_20sviluppo_20consigliato_21',['🧰 Ambiente di sviluppo consigliato',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Delay.html#autotoc_md10',1,'']]],
+  ['documentazione_20tecnica_20md_22',['🎲 Sistema Casinò sul Lancio dei Dadi — Documentazione Tecnica (.md)',['../md__2home_2runner_2work_2piazzalungamiolaGPO_2piazzalungamiolaGPO_2feature__Aggiunta__Monete.html#autotoc_md21',1,'']]]
+];
