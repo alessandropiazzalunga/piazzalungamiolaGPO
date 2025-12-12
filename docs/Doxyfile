@@ -12,7 +12,7 @@ PROJECT_NAME = "piazzalungamiolaGPO"
 
 2. **INPUT** (controlla quali cartelle hai con il codice):
 ```
-INPUT = ../src ../include
+INPUT = ../
 ```
 
 3. **RECURSIVE**:
