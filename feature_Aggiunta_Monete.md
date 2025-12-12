@@ -1,39 +1,47 @@
-**Sistema casinò sul lancio dei dadi**
 
-## 📖 Descrizione: prima feature del progetto
-Questa feature trasforma il semplice gioco del dado in un'esperienza di casinò completa e coinvolgente. Il sistema introduce:
+# 🎲 Sistema Casinò sul Lancio dei Dadi
 
-- **Gestione monete**: Il giocatore inizia con 10 monete e può scommettere su ogni partita
-- **Sistema di quote dinamiche**: ogni partita genera una quota casuale (da 1.0x a 10.0x) che moltiplica la vincita potenziale
-- **Validazione input**: controlli sulle puntate per evitare errori
-- **Game Over**: il gioco termina quando le monete finiscono, con statistiche finali
+Un’estensione completa che trasforma il gioco del dado in un’esperienza **da casinò**, con gestione monete, scommesse e quote dinamiche.  
+Il documento descrive **funzionalità**, **specifiche tecniche** e **codice C#** di esempio pronto all’uso.
 
-## 🔧 Come si integra nel progetto
+---
 
-La feature mantiene le due modalità di gioco originali:
-- **Modalità 1**: "Supera 13" (3 dadi, vinci se somma > 13)
-- **Modalità 2**: "Sotto il 3" (1 dado, vinci se valore < 3)
+## 📖 Panoramica
 
-Aggiunte rispetto alla prima versione:
-- Sistema di scommesse con monete virtuali
-- Quote dinamiche che moltiplicano le vincite
-- Sistema di validazione puntate
-- Visualizzazione del saldo dopo ogni giocata
+### Obiettivi
+- Aumentare l’engagement con **meccaniche di scommessa** e **quote variabili**.
+- Garantire **robustezza** grazie alla **validazione degli input**.
+- Fornire **feedback chiari** tramite una UI testuale con box ASCII e colori.
+- Chiudere la sessione con **statistiche finali** (profitto/perdita).
+
+### Modalità di gioco (immutate)
+- **Modalità 1 — “Supera 13”**: lancia 3 dadi, **vinci se somma > 13**.
+- **Modalità 2 — “Sotto il 3”**: lancia 1 dado, **vinci se valore < 3**.
+
+### Nuove feature introdotte
+- **Gestione monete**: saldo iniziale **10 monete**, puntata per ogni partita.
+- **Quote dinamiche**: generazione casuale da **1.0x** a **10.0x** (arrotondate a 1 decimale).
+-- **Validazione puntate**: evita puntate non numeriche, negative, zero o oltre il saldo.
+- **Visualizzazione saldo**: aggiornato dopo ogni esito.
+- **Game Over**: chiusura automatica quando il saldo arriva a **0**.
+- **Statistiche finali**: messaggi di profitto/perdita con riepilogo.
+
+---
 
 ## 📦 Requisiti
 
-### Requisiti tecnici
-- **Linguaggio**: C# (.NET Framework 4.7+ o .NET Core 3.1+)
-
-### Dipendenze
-Solo librerie standard .NET (nessuna dipendenza esterna)
-
-##  Vantaggi della feature
-- ✅ Aumenta il coinvolgimento del giocatore
-- ✅ Introduce elementi di risk/reward con quote variabili
-- ✅ Sistema di validazione per evitare errori
+- **Linguaggio**: C#  
+- **Runtime**: **.NET Framework 4.7+** _oppure_ **.NET Core 3.1+**
+- **Dipendenze**: solo librerie standard .NET (nessuna dipendenza esterna)
 
 ---
+
+## 🔧 Specifiche Tecniche
+
+### Quote dinamiche
+La quota viene generata a ogni partita:
+```csharp
+double quota = Math.Round(rnd.NextDouble() * 9 + 1, 1);
 
 
 ## Nuove sezioni del codice
