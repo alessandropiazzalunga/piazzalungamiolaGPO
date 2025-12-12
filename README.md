@@ -44,7 +44,8 @@ Il progetto include due modalità principali:
 ## 📂 Tecnologie Utilizzate
 - **Linguaggio:** C#  
 - **Ambiente di sviluppo:** Visual Studio  
-- **Versionamento:** Git e GitHub  
+- **Versionamento:** Git e GitHub
+- **Link della repository:** https://github.com/alessandropiazzalunga/piazzalungamiolaGPO 
 
 
 ---
