@@ -34,6 +34,49 @@ Il documento descrive **funzionalità**, **specifiche tecniche** e **codice C#**
 - **Runtime**: **.NET Framework 4.7+** _oppure_ **.NET Core 3.1+**
 - **Dipendenze**: solo librerie standard .NET (nessuna dipendenza esterna)
 
+  
+# 🎲 Sistema Casinò sul Lancio dei Dadi — Documentazione Tecnica (.md)
+
+Questa documentazione integra il progetto con **dettagli tecnici**, **strumenti consigliati** (Visual Studio, VS Code, .NET CLI) e **best practice** per sviluppo, build, test e distribuzione.
+
+---
+
+## 🧰 Strumenti e Ambienti Consigliati
+
+### 1) Visual Studio (Windows)
+- **Edizioni**: Community (gratuita), Professional, Enterprise.
+- **Caricamenti di lavoro**:
+  - ✅ *Sviluppo per desktop .NET* (necessario per app console).
+  - Opzionale: *Test Tools*, *Git integration*.
+- **Impostazioni progetto**:
+  - Template: **Console App (.NET Core)** o **Console App (.NET Framework)**.
+  - Target Framework: `.NET Core 3.1` **(consigliato)** o `.NET Framework 4.7+` (solo Windows).
+  - Abilita **Nullable**: `Project Properties > Build > Nullable (Enable)`.
+- **Debug**:
+  - Breakpoint su funzioni di esito (`mostraRisultatoVittoria`, `mostraRisultatoSconfitta`).
+  - **Immediate Window** per ispezionare variabili durante run.
+
+### 2) Visual Studio Code (Windows/macOS/Linux)
+- Estensioni:
+  - `C#` (ufficiale).
+  - `Code Runner` (facoltativo).
+  - `EditorConfig for VS Code` (per stile).
+- Debug:
+  - Configurazione `launch.json` (generata automaticamente alla prima esecuzione).
+  - Terminale integrato per `dotnet run`.
+
+### 3) .NET SDK / CLI
+- Installa **.NET SDK 6.0+** per compatibilità e lungo supporto (puoi comunque targettare `netcoreapp3.1`).
+- Comandi utili:
+  ```bash
+  dotnet --info
+  dotnet new console -n CasinoDadi
+  cd CasinoDadi
+  dotnet run
+  dotnet build -c Release
+  dotnet test
+
+
 ---
 
 ## 🔧 Specifiche Tecniche
