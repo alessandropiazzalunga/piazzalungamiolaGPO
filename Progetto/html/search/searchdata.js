@@ -1,10 +1,9 @@
 var indexSectionsWithContent =
 {
-  0: "acefmpst",
+  0: "cfpt",
   1: "p",
   2: "c",
-  3: "acems",
-  4: "cfpt"
+  3: "cfpt"
 };
 
 var indexSectionNames =
@@ -12,8 +11,7 @@ var indexSectionNames =
   0: "all",
   1: "classes",
   2: "files",
-  3: "functions",
-  4: "variables"
+  3: "variables"
 };
 
 var indexSectionLabels =
@@ -21,7 +19,6 @@ var indexSectionLabels =
   0: "Tutto",
   1: "Classi",
   2: "File",
-  3: "Funzioni",
-  4: "Variabili"
+  3: "Variabili"
 };
 

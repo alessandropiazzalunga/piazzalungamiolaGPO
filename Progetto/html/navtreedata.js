@@ -24,14 +24,10 @@
 */
 var NAVTREE =
 [
-  [ "Piazzalunga-Miola", "index.html", [
+  [ "Piazzalunga_Miola", "index.html", [
     [ "Classi", "annotated.html", [
       [ "Elenco dei tipi composti", "annotated.html", "annotated_dup" ],
-      [ "Indice dei tipi composti", "classes.html", null ],
-      [ "Membri dei composti", "functions.html", [
-        [ "Tutto", "functions.html", null ],
-        [ "Funzioni", "functions_func.html", null ]
-      ] ]
+      [ "Indice dei tipi composti", "classes.html", null ]
     ] ],
     [ "File", "files.html", [
       [ "Elenco dei file", "files.html", "files_dup" ],

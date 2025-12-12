@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['finale_0',['finale',['../_codice__progetto_8cs.html#a9e95b943f9fccaf070de9cc4a13b0221',1,'Codice_progetto.cs']]]
+  ['tecnico_0',['tecnico',['../_codice__progetto_8cs.html#a450a1b4e7a0ad99950eac187bed0fc56',1,'Codice_progetto.cs']]]
 ];

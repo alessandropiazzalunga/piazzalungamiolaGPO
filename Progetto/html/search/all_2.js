@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['effettosconfitta_0',['EffettoSconfitta',['../class_program.html#a1555b389dc5bbedf87a67be0fada201f',1,'Program']]],
-  ['effettovittoria_1',['EffettoVittoria',['../class_program.html#ace2b81b7ad0c588a49b9f25bdaeaae60',1,'Program']]]
+  ['program_0',['Program',['../class_program.html',1,'Program'],['../_codice__progetto_8cs.html#a30dbb1a07bc9a8e53e41252ddc1c402e',1,'Program:&#160;Codice_progetto.cs']]]
 ];

@@ -4,7 +4,7 @@ name: Genera Documentazione Doxygen
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
 
 permissions:
