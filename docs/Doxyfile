@@ -1,0 +1,35 @@
+notepad docs/Doxyfile
+```
+
+Oppure aprilo con Esplora File → docs → Doxyfile (tasto destro → Apri con Notepad++)
+
+Modifica le stesse righe di prima usando Ctrl+F:
+
+1. **PROJECT_NAME**:
+```
+PROJECT_NAME = "piazzalungamiolaGPO"
+```
+
+2. **INPUT** (controlla quali cartelle hai con il codice):
+```
+INPUT = ../src ../include
+```
+
+3. **RECURSIVE**:
+```
+RECURSIVE = YES
+```
+
+4. **OUTPUT_DIRECTORY**:
+```
+OUTPUT_DIRECTORY = .
+```
+
+5. **HTML_OUTPUT**:
+```
+HTML_OUTPUT = html
+```
+
+6. **GENERATE_HTML**:
+```
+GENERATE_HTML = YES
