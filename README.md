@@ -29,9 +29,9 @@ Il progetto include due modalità principali:
 - Si lanciano **3 dadi**.  
 - Se la **somma totale è maggiore di 13**, il giocatore vince.
 
-#### Modalità 2 – “Sotto il 6”
+#### Modalità 2 – “Sotto il 3”
 - Si lancia **1 dado**.  
-- Se il risultato è **minore di 6**, il giocatore vince.
+- Se il risultato è **minore di 3**, il giocatore vince.
 
 ### Funzionalità Generali
 - Lancio di uno o più dadi con valori da 1 a 6.  
@@ -44,7 +44,8 @@ Il progetto include due modalità principali:
 ## 📂 Tecnologie Utilizzate
 - **Linguaggio:** C#  
 - **Ambiente di sviluppo:** Visual Studio  
-- **Versionamento:** Git e GitHub  
+- **Versionamento:** Git e GitHub
+- **Link della repository:** https://github.com/alessandropiazzalunga/piazzalungamiolaGPO 
 
 
 ---
@@ -59,6 +60,7 @@ Il progetto include due modalità principali:
 Il progetto è stato realizzato come esercitazione di laboratorio per simulare il lavoro in team, con attenzione a:
 - Buone pratiche di versionamento.  
 - Documentazione chiara e aggiornata.  
-- Testing e validazione delle funzionalità.  
+- Testing e validazione delle funzionalità.
+- Documentazione con pipeline su: https://alessandropiazzalunga.github.io/piazzalungamiolaGPO/
 
 ---
