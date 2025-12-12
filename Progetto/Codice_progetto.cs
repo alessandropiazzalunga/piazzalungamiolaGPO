@@ -1,7 +1,3 @@
-﻿Assolutamente.Integrerò la spiegazione generale delle funzioni del programma direttamente all'inizio del blocco `<remarks>` della classe `Program`, assicurando che il tono sia rigorosamente descrittivo e tecnico, come richiesto per la massima prolissità esplicativa.
-
-Ecco la versione finale, con spiegazioni dettagliate delle funzioni del programma in cima al blocco `remarks` della classe:
-
 ```csharp
 using System;
 using System.Threading;
