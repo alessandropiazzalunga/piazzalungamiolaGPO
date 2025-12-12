@@ -29,9 +29,9 @@ Il progetto include due modalità principali:
 - Si lanciano **3 dadi**.  
 - Se la **somma totale è maggiore di 13**, il giocatore vince.
 
-#### Modalità 2 – “Sotto il 6”
+#### Modalità 2 – “Sotto il 3”
 - Si lancia **1 dado**.  
-- Se il risultato è **minore di 6**, il giocatore vince.
+- Se il risultato è **minore di 3**, il giocatore vince.
 
 ### Funzionalità Generali
 - Lancio di uno o più dadi con valori da 1 a 6.  
