@@ -1,21 +1,5 @@
 var searchData=
 [
-  ['tecnico_0',['tecnico',['../_codice__progetto_8cs.html#a450a1b4e7a0ad99950eac187bed0fc56',1,'Codice_progetto.cs']]],
-  ['test_5fpiazzalungamiola_1',['test_PiazzalungaMiola',['../namespacetest___piazzalunga_miola.html',1,'']]],
-  ['testaggiornamentocapitale_5fdoposconfitta_2',['TestAggiornamentoCapitale_DopoSconfitta',['../classtest___piazzalunga_miola_1_1_unit_test1.html#a88bfc22b7b99876e80b23feecf148b5c',1,'test_PiazzalungaMiola::UnitTest1']]],
-  ['testaggiornamentocapitale_5fdopovittoria_3',['TestAggiornamentoCapitale_DopoVittoria',['../classtest___piazzalunga_miola_1_1_unit_test1.html#ad2d77fd741ecc908118794a91349a947',1,'test_PiazzalungaMiola::UnitTest1']]],
-  ['testcalcolovincita_5fconmoltiplicatore_4',['TestCalcoloVincita_ConMoltiplicatore',['../classtest___piazzalunga_miola_1_1_unit_test1.html#a8ad122d830c479af90d4fd557882a8fb',1,'test_PiazzalungaMiola::UnitTest1']]],
-  ['testcondizioneterminazione_5fcapitaleesaurito_5',['TestCondizioneTerminazione_CapitaleEsaurito',['../classtest___piazzalunga_miola_1_1_unit_test1.html#a3eeb2d797a828d31dd3fc0d52043dc36',1,'test_PiazzalungaMiola::UnitTest1']]],
-  ['testintegrazione_5froundcompletosconfittamodalita2_6',['TestIntegrazione_RoundCompletoSconfittaModalita2',['../classtest___piazzalunga_miola_1_1_unit_test1.html#a930bf80d0d26e205ea774155c5a12247',1,'test_PiazzalungaMiola::UnitTest1']]],
-  ['testintegrazione_5froundcompletovittoriamodalita1_7',['TestIntegrazione_RoundCompletoVittoriaModalita1',['../classtest___piazzalunga_miola_1_1_unit_test1.html#af211b81f925403574b48831a89888b33',1,'test_PiazzalungaMiola::UnitTest1']]],
-  ['testmodalita1_5fcasolimitesommaesattamente13_8',['TestModalita1_CasoLimiteSommaEsattamente13',['../classtest___piazzalunga_miola_1_1_unit_test1.html#af0581d59ccd49fe071c1bcdfed04d415',1,'test_PiazzalungaMiola::UnitTest1']]],
-  ['testmodalita1_5fsconfittaconsommainferioreougualea13_9',['TestModalita1_SconfittaConSommaInferioreOUgualeA13',['../classtest___piazzalunga_miola_1_1_unit_test1.html#aaa97eaea2c478dda752b1565b9d062aa',1,'test_PiazzalungaMiola::UnitTest1']]],
-  ['testmodalita1_5fvincitaconsommasuperiorea13_10',['TestModalita1_VincitaConSommaSuperioreA13',['../classtest___piazzalunga_miola_1_1_unit_test1.html#a22ba7ed15f6392196d9adb50111a0654',1,'test_PiazzalungaMiola::UnitTest1']]],
-  ['testmodalita2_5fsconfittaconvalore6_11',['TestModalita2_SconfittaConValore6',['../classtest___piazzalunga_miola_1_1_unit_test1.html#a8b6a0793d7285aacd542bf0a7e7b5ee6',1,'test_PiazzalungaMiola::UnitTest1']]],
-  ['testmodalita2_5fvincitaconvaloreinferiorea6_12',['TestModalita2_VincitaConValoreInferioreA6',['../classtest___piazzalunga_miola_1_1_unit_test1.html#a7bc942fa8974e60afe3b2ee2997b8fa5',1,'test_PiazzalungaMiola::UnitTest1']]],
-  ['testrangequota_5fvalorilimite_13',['TestRangeQuota_ValoriLimite',['../classtest___piazzalunga_miola_1_1_unit_test1.html#a13ffb2b821d7a484e80c140a7a6df851',1,'test_PiazzalungaMiola::UnitTest1']]],
-  ['testvalidazionepuntata_5fsuperasaldo_14',['TestValidazionePuntata_SuperaSaldo',['../classtest___piazzalunga_miola_1_1_unit_test1.html#ada2a609480c687f3d8824dfc8162ca9b',1,'test_PiazzalungaMiola::UnitTest1']]],
-  ['testvalidazionepuntata_5fvalorenegativo_15',['TestValidazionePuntata_ValoreNegativo',['../classtest___piazzalunga_miola_1_1_unit_test1.html#ab85fd2685d9c09684bb3f5ec9382759e',1,'test_PiazzalungaMiola::UnitTest1']]],
-  ['testvalidazionepuntata_5fvalorevalido_16',['TestValidazionePuntata_ValoreValido',['../classtest___piazzalunga_miola_1_1_unit_test1.html#a70ddfa85d1649783004e0efa3170f27d',1,'test_PiazzalungaMiola::UnitTest1']]],
-  ['testvalidazionepuntata_5fvalorezero_17',['TestValidazionePuntata_ValoreZero',['../classtest___piazzalunga_miola_1_1_unit_test1.html#a7a7c8aa66febee9ba8850766e85582e7',1,'test_PiazzalungaMiola::UnitTest1']]]
+  ['unittest1_0',['UnitTest1',['../classtest___piazzalunga_miola_1_1_unit_test1.html',1,'test_PiazzalungaMiola']]],
+  ['unittest1_2ecs_1',['UnitTest1.cs',['../_unit_test1_8cs.html',1,'']]]
 ];
