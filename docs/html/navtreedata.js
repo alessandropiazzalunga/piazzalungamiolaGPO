@@ -25,6 +25,9 @@
 var NAVTREE =
 [
   [ "Piazzalunga-Miola", "index.html", [
+    [ "Namespace", "namespaces.html", [
+      [ "Lista dei namespace", "namespaces.html", "namespaces_dup" ]
+    ] ],
     [ "Classi", "annotated.html", [
       [ "Elenco dei tipi composti", "annotated.html", "annotated_dup" ],
       [ "Indice dei tipi composti", "classes.html", null ],
@@ -45,7 +48,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_codice__progetto_8cs.html"
+"_8_n_e_t_framework_00_version_0av4_87_82_8_assembly_attributes_8cs.html"
 ];
 
 var SYNCONMSG = 'cliccare per disabilitare la sincronizzazione del pannello';

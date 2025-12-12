@@ -24,6 +24,8 @@
 */
 var menudata={children:[
 {text:"Pagina Principale",url:"index.html"},
+{text:"Namespace",url:"namespaces.html",children:[
+{text:"Lista dei namespace",url:"namespaces.html"}]},
 {text:"Classi",url:"annotated.html",children:[
 {text:"Elenco dei tipi composti",url:"annotated.html"},
 {text:"Indice dei tipi composti",url:"classes.html"},
