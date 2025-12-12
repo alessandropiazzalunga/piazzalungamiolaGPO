@@ -1,63 +1,31 @@
+# Sistema casinò sul lancio dei dadi 
 
-# 🎲 Sistema Casinò sul Lancio dei Dadi — Feature Suspense
+## 📖 Descrizione: feature suspence, seconda feature
 
-## 📖 Descrizione: seconda feature (effetti di suspense)
+Questa feature aggiunge effetti di suspense e drammaticità al gioco, senza modificare la logica economica o le modalità di gioco. L’obiettivo è rendere l’esperienza più coinvolgente tramite ritardi prestabiliti.
 
-Questa feature aggiunge **effetti di suspense e drammaticità** al gioco, senza modificare la logica economica o le modalità di gioco.  
-L’obiettivo è rendere l’esperienza più coinvolgente tramite **ritardi prestabiliti**, animazioni e scrittura lenta.
-
-### ✅ Cosa introduce:
-- **Scrittura lenta**: testo mostrato carattere per carattere.
-- **Caricamento con puntini**: effetto di attesa.
+Il sistema introduce:
+- **Lentezza di scrittura**: testo mostrato lentamente carattere per carattere.
+- **Caricamento**: effetto di attesa con puntini.
 - **Animazione del dado**: simulazione del dado che rotola.
-- **Effetti di vittoria/sconfitta**: lampeggio di messaggi per enfatizzare il risultato.
 
----
+## 🔧 Come si integra nel progetto
 
-## 🔧 Integrazione nel progetto
 Queste funzioni possono essere chiamate:
-- **Prima di mostrare il risultato del dado** → `AnimazioneDado()`.
-- **Dopo la valutazione della giocata** → `EffettoVittoria()` o `EffettoSconfitta()`.
-- **Durante messaggi importanti** → `ScriviLento()` e `Caricamento()`.
 
-> **Nota**: Non modifica le regole del gioco. Mantiene le modalità originali (*Supera 13* e *Sotto il 3*).
+- Prima di mostrare il risultato del dado (`AnimazioneDado`).  
+- Dopo la valutazione della giocata per enfatizzare il risultato (`EffettoVittoria` / `EffettoSconfitta`).  
+- Per creare suspense durante messaggi importanti (`ScriviLento`, `Caricamento`).  
 
----
+Non modifica le regole: il gioco mantiene le due modalità originali.
 
-## 📦 Requisiti Tecnici
-- **Linguaggio**: C#  
-- **Framework**: .NET Core 3.1+ (consigliato) o .NET Framework 4.7+  
-- **Dipendenze**: Solo librerie standard (`System`, `System.Threading`)
+## 📦 Requisiti
 
----
+### Requisiti tecnici
+- **Linguaggio**: C# (.NET Framework 4.7+ o .NET Core 3.1+)
 
-## ✔️ Vantaggi della feature
-- Migliora l’esperienza utente con **suspense e drammaticità**.
-- Aumenta l’immersione senza alterare la logica di gioco.
-- Supporta un feedback visivo chiaro su **vittoria** o **sconfitta**.
-
----
-
-## 🧰 Ambiente di sviluppo consigliato
-
-### ✅ Visual Studio (Windows)
-- **Versione**: Community (gratuita) o superiore.
-- **Caricamento di lavoro**: *Sviluppo per desktop .NET*.
-- **Debug**: Breakpoint su funzioni di animazione per testare i ritardi.
-- **Shortcut utili**:
-  - `Ctrl+Shift+B` → Build
-  - `F5` → Avvio con debug
-  - `Ctrl+F5` → Avvio senza debug
-
-### ✅ Visual Studio Code (Windows/macOS/Linux)
-- Estensioni:
-   - `C#` (ufficiale Microsoft)
-  - `Code Runner` (facoltativo)
-- Comandi CLI:
-  ```bash
-  dotnet new console -n CasinoDadi
-  cd CasinoDadi
-
+### Dipendenze
+- Solo librerie standard .NET (`System`, `System.Threading`)
 
 ## ✔️ Vantaggi della feature
 
