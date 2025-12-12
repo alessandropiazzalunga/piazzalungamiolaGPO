@@ -38,7 +38,7 @@ Queste funzioni possono essere chiamate:
 
 ---
 
-## 🧰 Ambiente di sviluppo consigliato
+## 🧰 Ambiente di sviluppo utlizzato
 
 ### ✅ Visual Studio (Windows)
 - **Versione**: Community (gratuita) o superiore.
@@ -53,10 +53,6 @@ Queste funzioni possono essere chiamate:
 - Estensioni:
    - `C#` (ufficiale Microsoft)
   - `Code Runner` (facoltativo)
-- Comandi CLI:
-  ```bash
-  dotnet new console -n CasinoDadi
-  cd CasinoDadi
 
 
 ## ✔️ Vantaggi della feature
@@ -64,10 +60,11 @@ Queste funzioni possono essere chiamate:
 - Migliora l’esperienza utente con suspense e drammaticità.
 - Aumenta l’immersione del giocatore senza alterare la logica di gioco.
 - Supporta un feedback visivo chiaro su vittoria o sconfitta.
+- Codice più efficiente
 
 ---
 
-# Nuove sezioni del codice – Suspense
+# Nuove sezioni del codice – Attesa nella generazione di quote e nel lancio dei dadi
 
 ## 1) ScriviLento
 
