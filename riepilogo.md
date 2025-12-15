@@ -34,7 +34,7 @@ Simulare il workflow di un team di sviluppo:
 
 | Attività                                      | Responsabile                |
 |----------------------------------------------|----------------------------|
-| Gestione GitHub (commit, push, merge, PR)    | **Alessandro Piazzalunga **|
+| Gestione GitHub (commit, push, merge, PR)    | **Alessandro Piazzalunga ** |
 | Creazione e aggiornamento README.md          | **Creazione Miola, Aggiornamento Piazzalunga** |
 | Implementazione prima feature (scommesse)    | **Lorenzo Miola**          |
 | Creazione file `.gitignore`                  | **Alessandro Piazzalunga** |
